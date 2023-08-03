@@ -1,0 +1,5 @@
+Python (that's logic)
+
+tkinter (included with Python i think, sometimes it isn't so i've included it to this list)
+mido
+pygame
